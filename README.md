@@ -1,4 +1,4 @@
-# CI/CD for SageMaker Pipeline Demo 🚀
+# CI/CD for SageMaker Pipeline Demo 
 
 This project demonstrates how to set up a GitHub Actions workflow to deploy an AWS SageMaker Pipeline, using Docker as a development environment.
 
