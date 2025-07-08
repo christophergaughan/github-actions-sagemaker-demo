@@ -16,6 +16,13 @@ This repo shows a basic example using GitHub Actions.
  `requirements.txt` — Required Python packages  
  Dockerfile for reproducible dev environment  
 
+ ## Containerization & Orchestration
+
+- Added sample Dockerfile to demonstrate containerizing inference workloads using Python and boto3.
+- Added Kubernetes manifests (deployment and service) to illustrate potential deployment on EKS or any K8s cluster.
+- Supports future migration from purely serverless to hybrid or fully container-based microservice architectures.
+
+
 ---
 
 ### How to use:
